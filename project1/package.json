@@ -2,7 +2,7 @@
   "name": "project1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/malikhuzaifabinahmed/Robo-world",
+  "homepage": "https://malikhuzaifabinahmed.github.io/Robo-world",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
