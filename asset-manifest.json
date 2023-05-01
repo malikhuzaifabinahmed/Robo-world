@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Robo-world/static/css/main.b2eae9ee.css",
+    "main.js": "/Robo-world/static/js/main.ef48f93f.js",
+    "static/js/787.142da1d4.chunk.js": "/Robo-world/static/js/787.142da1d4.chunk.js",
+    "index.html": "/Robo-world/index.html",
+    "main.b2eae9ee.css.map": "/Robo-world/static/css/main.b2eae9ee.css.map",
+    "main.ef48f93f.js.map": "/Robo-world/static/js/main.ef48f93f.js.map",
+    "787.142da1d4.chunk.js.map": "/Robo-world/static/js/787.142da1d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2eae9ee.css",
+    "static/js/main.ef48f93f.js"
+  ]
+}
